@@ -1,0 +1,15 @@
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\bin\Debug\net6.0\MethodExercise.exe
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\bin\Debug\net6.0\MethodExercise.deps.json
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\bin\Debug\net6.0\MethodExercise.runtimeconfig.json
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\bin\Debug\net6.0\MethodExercise.dll
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\bin\Debug\net6.0\MethodExercise.pdb
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.AssemblyInfo.cs
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.dll
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\refint\MethodExercise.dll
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.pdb
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\MethodExercise.genruntimeconfig.cache
+C:\Users\zecha\Documents\True Coders\repos\MethodExercise\MethodExercise\obj\Debug\net6.0\ref\MethodExercise.dll
